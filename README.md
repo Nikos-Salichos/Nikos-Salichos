@@ -16,3 +16,7 @@ ABOUT ME
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/nikossalichos/).
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nikos-Salichos)](https://git.io/streak-stats)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikos-Salichos&theme=blue-green)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Nikos-Salichos)
