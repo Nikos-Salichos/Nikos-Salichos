@@ -14,5 +14,3 @@ ABOUT ME
 - 💻 My development environment consists of: Visual Studio, .NET, React.js, Microsoft SQL Server, Github, Azure, multiple libraries.
 - 🌱 After work, i study Web3 (bots, flash loans, new protocols etc)  and everything regarding the technology stack: Solidity , Hardhat, Node.js , React.js.
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/nikossalichos/).
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nikos-Salichos)](https://git.io/streak-stats)
