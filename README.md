@@ -11,7 +11,7 @@ ABOUT ME
 
 - 👋 My name is Nikos Salichos. Currently i am full stack developer (.NET & React.js).
 - 🏠 Currently working (remote) at Athens Greece.
-- 💻 My development environment consists of: Visual Studio, .NET, React.js, Microsoft SQL Server, Github, Azure, multiple libraries.
+- 💻 My development environment consists of: Visual Studio, C#, .NET, Microservices React.js, Microsoft SQL Server, Github, Azure, multiple libraries.
 - 🌱 After work, i study Web3 (bots, flash loans, new protocols etc)  and everything regarding the technology stack: Solidity , Hardhat, Node.js , React.js.
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/nikossalichos/).
 
