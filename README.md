@@ -1,6 +1,7 @@
 Hi everyone 👋
 
 I work as software engineer with experience in the following technologies and tools:
+Experience:
 - C#
 - .NET Core / Framework
 - Microsoft SQL Server , PostgreSql, MySQL, SQLite
@@ -16,6 +17,7 @@ I work as software engineer with experience in the following technologies and to
 - Atlassian Jira
 - Git
 - Gitlab, Github, Sourcetree
+- Solidity
 
 CURRENT ACTIVITIES
 
