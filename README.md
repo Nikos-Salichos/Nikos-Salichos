@@ -9,8 +9,8 @@ Experience:
 - RabbitMQ 
 - ADO.NET, Dapper, Entity Framework
 - Testing (Moq, Xunit, Nunit, Specflow, TestContainers)
-- Structured Logging (Serilog)
-- Multiple nugets like Mediatr, Polly, Fluent Validation etc.
+- Structured Logging (Seq, Serilog etc)
+- Multiple nugets like Serilog, Mediatr, Polly, Fluent Validation etc.
 - Clean architecture , Domain Driven Design (DDD)
 - Docker
 - Splunk, Grafana
