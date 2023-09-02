@@ -2,15 +2,15 @@ Hi everyone 👋
 
 I work as software engineer with experience in the following technologies and tools:
 Experience:
+- Clean architecture , Domain Driven Design (DDD)
 - C# (.NET Core / Framework)
 - Microsoft SQL Server , PostgreSql, MySQL, SQLite
 - Redis
 - RabbitMQ 
 - ADO.NET, Dapper, Entity Framework
 - Testing (Moq, Xunit, Nunit, Specflow, TestContainers)
-- Structured Logging (Seq, Serilog etc)
+- Structured Logging (Seq)
 - Multiple nugets like Serilog, Mediatr, Polly, Fluent Validation etc.
-- Clean architecture , Domain Driven Design (DDD)
 - Docker
 - Splunk, Grafana
 - Atlassian Jira
