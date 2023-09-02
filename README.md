@@ -2,8 +2,7 @@ Hi everyone 👋
 
 I work as software engineer with experience in the following technologies and tools:
 Experience:
-- C#
-- .NET Core / Framework
+- C# (.NET Core / Framework)
 - Microsoft SQL Server , PostgreSql, MySQL, SQLite
 - Redis
 - RabbitMQ 
