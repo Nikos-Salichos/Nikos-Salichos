@@ -1,7 +1,6 @@
 Hi everyone 👋
 
 I work as software engineer with experience in the following technologies and tools:
-Experience:
 - Clean architecture , Domain Driven Design (DDD)
 - C# (.NET Core / Framework)
 - Microsoft SQL Server , PostgreSql, MySQL, SQLite
