@@ -14,6 +14,7 @@
 - Typescript
 - React
 - Solidity
+- Azure & AWS
 - Clean architecture, Domain Driven Design (DDD)
 - Microsoft SQL Server, PostgreSql, MySQL, SQLite
 - Cache (Redis, IMemoryCache)
@@ -28,4 +29,3 @@
 - Project Management Tool (Atlassian Jira)
 - Git
 - Gitlab, Github, Sourcetree
-
