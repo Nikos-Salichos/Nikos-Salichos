@@ -7,7 +7,7 @@
 💻 Working remote at Betsson, one of the oldest iGaming companies.  
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/nikossalichos/).  
 🌱 I’m currently learning many things, as I believe that every day is a learning opportunity. I strive to keep up with the latest technologies and continuously improve.  
-💡 I enjoy reading about technology and finance.
+💡 I enjoy reading about technology and finance.  
 👨‍💻 I have experience with the following
 - C# (.NET Core / Framework)
 - Typescript
