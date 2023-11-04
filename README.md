@@ -3,12 +3,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-🏠 My name is Nikos Salichos and I live in Greece
-💻 Working remote at Betsson, one of the oldest iGaming companies.
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/nikossalichos/).
-🌱 I’m currently learning many things, as I believe that every day is a learning opportunity. I strive to keep up with the latest technologies and continuously improve.
+🏠 My name is Nikos Salichos and I live in Greece.  
+💻 Working remote at Betsson, one of the oldest iGaming companies.  
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/nikossalichos/).  
+🌱 I’m currently learning many things, as I believe that every day is a learning opportunity. I strive to keep up with the latest technologies and continuously improve.  
 💡 I enjoy reading about technology and finance.
-
 
 👨‍💻 I have experience with the following:
 - C# (.NET Core / Framework)
