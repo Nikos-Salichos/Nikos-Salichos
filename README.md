@@ -14,8 +14,8 @@
 - Typescript
 - React
 - Solidity
-- Azure & AWS
-- Clean architecture, Domain Driven Design (DDD)
+- Microsoft Azure and Amazon Web Services
+- Clean architecture, Domain Driven Design (DDD), Test Driven Development (TDD)
 - Microsoft SQL Server, PostgreSql, MySQL, SQLite
 - Cache (Redis, IMemoryCache)
 - Asynchronous Messaging (RabbitMQ)
