@@ -5,26 +5,27 @@
 
 🏠 My name is Nikos Salichos and I live in Greece
 💻 Working remote in Betsson, one of the oldest IGaming companies.
-📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/nikossalichos/).
-🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
- Keep up with latest technologies and constant improvement
-💡 Sharing, teaching, and discussing about web3 and blockchain
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/nikossalichos/).
+🌱 I’m currently learning many things, as I believe that every day is a learning opportunity. I strive to keep up with the latest technologies and continuously improve.
+💡 I enjoy reading about technology and finance.
 
-👨‍💻 I have experience with the following technologies & tools:
-- Clean architecture , Domain Driven Design (DDD)
+👨‍💻 I have experience with the following:
 - C# (.NET Core / Framework)
-- Microsoft SQL Server , PostgreSql, MySQL, SQLite
-- Redis
-- RabbitMQ 
-- ADO.NET, Dapper, Entity Framework
-- Testing (Moq, Xunit, Nunit, Specflow, TestContainers)
-- Structured Logging (Seq)
-- Multiple nugets like Serilog, Mediatr, Polly, Fluent Validation etc.
-- Docker
-- Splunk, Grafana
-- Atlassian Jira
-- Git
-- Gitlab, Github, Sourcetree
 - Typescript
 - React
 - Solidity
+- Clean architecture, Domain Driven Design (DDD)
+- Microsoft SQL Server, PostgreSql, MySQL, SQLite
+- Cache (Redis, IMemoryCache)
+- Asynchronous Messaging (RabbitMQ)
+- ADO.NET, Dapper, Entity Framework
+- Testing (Moq, Xunit, Nunit, Specflow, TestContainers)
+- Structured Logging (Serilog, NLog)
+- Multiple nugets like Mediatr, Polly, Fluent Validation etc.
+- CI/CD (Teamcity , Octopus , Github actions)
+- Docker, Kubernetes
+- Splunk, Seq, Grafana
+- Project Management Tool (Atlassian Jira)
+- Git
+- Gitlab, Github, Sourcetree
+
