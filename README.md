@@ -4,7 +4,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 🏠 My name is Nikos Salichos and I live in Greece.  
-💻 I work as a software engineer (remote) at Betsson, one of the world's largest gaming groups.  
+💻 I work as a senior software engineer at Sirius Energy S.A at Switzerland.  
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/nikossalichos/).  
 🌱 I’m currently learning many things, as I believe that every day is a learning opportunity. I strive to keep up with the latest technologies and continuously improve.  
 💡 I enjoy reading about technology and finance.  
